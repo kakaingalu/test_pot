@@ -1,0 +1,12 @@
+[submodule "0x18-stacks_queues_lifo_fifo"]
+	path = 0x18-stacks_queues_lifo_fifo
+	url = https://github.com/birnbera/monty.git
+[submodule "0x1C-binary_trees"]
+	path = 0x1C-binary_trees
+	url = https://github.com/alexaorrico/binary_trees.git
+[submodule "0x10-printf"]
+	path = 0x10-printf
+	url = https://github.com/alexaorrico/printf.git
+[submodule "0x15-simple_shell"]
+	path = 0x15-simple_shell
+	url = https://github.com/alexaorrico/simple_shell
